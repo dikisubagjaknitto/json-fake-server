@@ -1,0 +1,2933 @@
+{
+  "search": [
+    {
+      "item": {
+        "slug": "?id_katalog=190006",
+        "name": "COMPLETE CATALOG",
+        "path": "/catalog-detail",
+        "img": "https://s3.knitto.co.id/catalog/catalog-complete.jpg",
+        "type": "katalog"
+      }
+    },
+    {
+      "item": {
+        "slug": "?id_katalog=190004",
+        "name": "CVC PIQUE CATALOG",
+        "path": "/catalog-detail",
+        "img": "https://s3.knitto.co.id/catalog/pique.jpg",
+        "type": "katalog"
+      }
+    },
+    {
+      "item": {
+        "slug": "?id_katalog=190007",
+        "name": "COTTON BAMBOO CATALOG ",
+        "path": "/catalog-detail",
+        "img": "https://s3.knitto.co.id/catalog/bamboo.jpg",
+        "type": "katalog"
+      }
+    },
+    {
+      "item": {
+        "slug": "?id_katalog=190001",
+        "name": "COTTON COMBED CATALOG",
+        "path": "/catalog-detail",
+        "img": "https://s3.knitto.co.id/catalog/combed.jpg",
+        "type": "katalog"
+      }
+    },
+    {
+      "item": {
+        "slug": "?id_katalog=190002",
+        "name": "COTTON GALAXY CATALOG",
+        "path": "/catalog-detail",
+        "img": "https://s3.knitto.co.id/catalog/galaxy.jpg",
+        "type": "katalog"
+      }
+    },
+    {
+      "item": {
+        "slug": "?id_katalog=190003",
+        "name": "CVC THREETONE CATALOG ",
+        "path": "/catalog-detail",
+        "img": "https://s3.knitto.co.id/catalog/threetone.jpg",
+        "type": "katalog"
+      }
+    },
+    {
+      "item": {
+        "slug": "?id_katalog=190008",
+        "name": "COTTON COMBED FLEECE CATALOG",
+        "path": "/catalog-detail",
+        "img": "https://s3.knitto.co.id/catalog/combed-fleece.jpg",
+        "type": "katalog"
+      }
+    },
+    {
+      "item": {
+        "slug": "?id_katalog=200010",
+        "name": "COTTON MODAL KATALOG",
+        "path": "/catalog-detail",
+        "img": "https://s3.knitto.co.id/catalog/cotton-modal.jpg",
+        "type": "katalog"
+      }
+    },
+    {
+      "item": {
+        "slug": "?id_katalog=190009",
+        "name": "COTTON COMBED BABY TERRY CATALOG",
+        "path": "/catalog-detail",
+        "img": "https://s3.knitto.co.id/catalog/combed-baby-terry.jpg",
+        "type": "katalog"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=ABU MUDA",
+        "name": "COTTON COMBED 24S ABU MUDA",
+        "path": "/detail-kain",
+        "warnacss": "#A7AAB7FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=ABU TUA",
+        "name": "COTTON COMBED 24S ABU TUA",
+        "path": "/detail-kain",
+        "warnacss": "#474545FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=ALMOND BROWN",
+        "name": "COTTON COMBED 24S ALMOND BROWN",
+        "path": "/detail-kain",
+        "warnacss": "#A1714DFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=ARMY GREEN",
+        "name": "COTTON COMBED 24S ARMY GREEN",
+        "path": "/detail-kain",
+        "warnacss": "#3E3F2FFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=AUTUMN ORANGE",
+        "name": "COTTON COMBED 24S AUTUMN ORANGE",
+        "path": "/detail-kain",
+        "warnacss": "#863F2BFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=BEIGE",
+        "name": "COTTON COMBED 24S BEIGE",
+        "path": "/detail-kain",
+        "warnacss": "#C9AD92FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=BENHUR",
+        "name": "COTTON COMBED 24S BENHUR",
+        "path": "/detail-kain",
+        "warnacss": "#003C76FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=BIRU MUDA",
+        "name": "COTTON COMBED 24S BIRU MUDA",
+        "path": "/detail-kain",
+        "warnacss": "#6F9ECDFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=BLUSH RED",
+        "name": "COTTON COMBED 24S BLUSH RED",
+        "path": "/detail-kain",
+        "warnacss": "#A05259FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=BURGUNDY",
+        "name": "COTTON COMBED 24S BURGUNDY",
+        "path": "/detail-kain",
+        "warnacss": "#622430FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=COKLAT KOPI",
+        "name": "COTTON COMBED 24S COKLAT KOPI",
+        "path": "/detail-kain",
+        "warnacss": "#3E3331FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=COKLAT SUSU",
+        "name": "COTTON COMBED 24S COKLAT SUSU",
+        "path": "/detail-kain",
+        "warnacss": "#967F68FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=CREAM",
+        "name": "COTTON COMBED 24S CREAM",
+        "path": "/detail-kain",
+        "warnacss": "#F9E2C4FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=DARK MUSTARD",
+        "name": "COTTON COMBED 24S DARK MUSTARD",
+        "path": "/detail-kain",
+        "warnacss": "#9D6024FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=DUSTY PINK",
+        "name": "COTTON COMBED 24S DUSTY PINK",
+        "path": "/detail-kain",
+        "warnacss": "#D1B1AAFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=DUSTY ROSE",
+        "name": "COTTON COMBED 24S DUSTY ROSE",
+        "path": "/detail-kain",
+        "warnacss": "#9A6B6BFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=FUCHSIA",
+        "name": "COTTON COMBED 24S FUCHSIA",
+        "path": "/detail-kain",
+        "warnacss": "#B6265DFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=HIJAU BOTOL",
+        "name": "COTTON COMBED 24S HIJAU BOTOL",
+        "path": "/detail-kain",
+        "warnacss": "#294643FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=HIJAU BOTOL SPECIAL",
+        "name": "COTTON COMBED 24S HIJAU BOTOL SPECIAL",
+        "path": "/detail-kain",
+        "warnacss": "#273E3AFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=HIJAU FUJI",
+        "name": "COTTON COMBED 24S HIJAU FUJI",
+        "path": "/detail-kain",
+        "warnacss": "#00893BFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=HIJAU MINT",
+        "name": "COTTON COMBED 24S HIJAU MINT",
+        "path": "/detail-kain",
+        "warnacss": "#B5E5D4FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=HIJAU PUCUK",
+        "name": "COTTON COMBED 24S HIJAU PUCUK",
+        "path": "/detail-kain",
+        "warnacss": "#8BBF49FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=HIJAU TNI",
+        "name": "COTTON COMBED 24S HIJAU TNI",
+        "path": "/detail-kain",
+        "warnacss": "#494331FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=HITAM REAKTIF",
+        "name": "COTTON COMBED 24S HITAM REAKTIF",
+        "path": "/detail-kain",
+        "warnacss": "#232426FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=HITAM SULFUR",
+        "name": "COTTON COMBED 24S HITAM SULFUR",
+        "path": "/detail-kain",
+        "warnacss": "#222224FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=HONEY",
+        "name": "COTTON COMBED 24S HONEY",
+        "path": "/detail-kain",
+        "warnacss": "#DB9F31FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=JET BLACK",
+        "name": "COTTON COMBED 24S JET BLACK",
+        "path": "/detail-kain",
+        "warnacss": "#222123FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=KUNING KENARI",
+        "name": "COTTON COMBED 24S KUNING KENARI",
+        "path": "/detail-kain",
+        "warnacss": "#FFC515FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=KUNING LEMON",
+        "name": "COTTON COMBED 24S KUNING LEMON",
+        "path": "/detail-kain",
+        "warnacss": "#FFDA00FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=LIGHT BROWN",
+        "name": "COTTON COMBED 24S LIGHT BROWN",
+        "path": "/detail-kain",
+        "warnacss": "#BCAA9DFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=LIGHT GREY",
+        "name": "COTTON COMBED 24S LIGHT GREY",
+        "path": "/detail-kain",
+        "warnacss": "#A7A6A4FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=LILAC",
+        "name": "COTTON COMBED 24S LILAC",
+        "path": "/detail-kain",
+        "warnacss": "#B18FBAFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=MAROON",
+        "name": "COTTON COMBED 24S MAROON",
+        "path": "/detail-kain",
+        "warnacss": "#76212AFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=MERAH CABE",
+        "name": "COTTON COMBED 24S MERAH CABE",
+        "path": "/detail-kain",
+        "warnacss": "#A01729FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=MINERAL BLUE",
+        "name": "COTTON COMBED 24S MINERAL BLUE",
+        "path": "/detail-kain",
+        "warnacss": "#476975FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=MINERAL GREEN",
+        "name": "COTTON COMBED 24S MINERAL GREEN",
+        "path": "/detail-kain",
+        "warnacss": "#627C75FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=MISTY M71 PUTIH BLUISH",
+        "name": "COTTON COMBED 24S MISTY M71 PUTIH BLUISH",
+        "path": "/detail-kain",
+        "warnacss": "#979AAEFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=MUSTARD",
+        "name": "COTTON COMBED 24S MUSTARD",
+        "path": "/detail-kain",
+        "warnacss": "#D48C35FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=NAVY",
+        "name": "COTTON COMBED 24S NAVY",
+        "path": "/detail-kain",
+        "warnacss": "#1F2938FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=OLIVE GREEN",
+        "name": "COTTON COMBED 24S OLIVE GREEN",
+        "path": "/detail-kain",
+        "warnacss": "#8E8765FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=ORANGE",
+        "name": "COTTON COMBED 24S ORANGE",
+        "path": "/detail-kain",
+        "warnacss": "#EB5D21FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=ORANGE BATA",
+        "name": "COTTON COMBED 24S ORANGE BATA",
+        "path": "/detail-kain",
+        "warnacss": "#AF512EFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=PINK",
+        "name": "COTTON COMBED 24S PINK",
+        "path": "/detail-kain",
+        "warnacss": "#EEBAD5FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=PUTIH BLUISH",
+        "name": "COTTON COMBED 24S PUTIH BLUISH",
+        "path": "/detail-kain",
+        "warnacss": "#E0ECFFFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=PUTIH NETRAL",
+        "name": "COTTON COMBED 24S PUTIH NETRAL",
+        "path": "/detail-kain",
+        "warnacss": "#F3F8FFFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=SALEM",
+        "name": "COTTON COMBED 24S SALEM",
+        "path": "/detail-kain",
+        "warnacss": "#F4929EFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=STEEL BLUE",
+        "name": "COTTON COMBED 24S STEEL BLUE",
+        "path": "/detail-kain",
+        "warnacss": "#4B6983FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=TOSCA",
+        "name": "COTTON COMBED 24S TOSCA",
+        "path": "/detail-kain",
+        "warnacss": "#008175FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=TOSCA MUDA",
+        "name": "COTTON COMBED 24S TOSCA MUDA",
+        "path": "/detail-kain",
+        "warnacss": "#71C9BDFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=TOSCA MUDA",
+        "name": "COTTON COMBED 24S TOSCA TUA",
+        "path": "/detail-kain",
+        "warnacss": "#00515BFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=TURKIS",
+        "name": "COTTON COMBED 24S TURKIS",
+        "path": "/detail-kain",
+        "warnacss": "#0090B5FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=TURKIS MUDA",
+        "name": "COTTON COMBED 24S TURKIS MUDA",
+        "path": "/detail-kain",
+        "warnacss": "#59BED4FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=TURKIS TUA",
+        "name": "COTTON COMBED 24S TURKIS TUA",
+        "path": "/detail-kain",
+        "warnacss": "#006DA1FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 24S&warna_kain=UNGU TUA",
+        "name": "COTTON COMBED 24S UNGU TUA",
+        "path": "/detail-kain",
+        "warnacss": "#382F4EFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC ASTRO 30S&warna_kain=ABU TUA",
+        "name": "COTTON CVC ASTRO 30S ABU TUA",
+        "path": "/detail-kain",
+        "warnacss": "#3D3C3DFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC ASTRO 30S&warna_kain=ARMY GREEN",
+        "name": "COTTON CVC ASTRO 30S ARMY GREEN",
+        "path": "/detail-kain",
+        "warnacss": "#414335FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC ASTRO 30S&warna_kain=DARK TEAL",
+        "name": "COTTON CVC ASTRO 30S DARK TEAL",
+        "path": "/detail-kain",
+        "warnacss": "#1F464CFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC ASTRO 30S&warna_kain=HIJAU BOTOL",
+        "name": "COTTON CVC ASTRO 30S HIJAU BOTOL",
+        "path": "/detail-kain",
+        "warnacss": "#2A4543FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC ASTRO 30S&warna_kain=HITAM REAKTIF SPECIAL",
+        "name": "COTTON CVC ASTRO 30S HITAM REAKTIF SPECIAL",
+        "path": "/detail-kain",
+        "warnacss": "#29292CFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC ASTRO 30S&warna_kain=MAROON",
+        "name": "COTTON CVC ASTRO 30S MAROON",
+        "path": "/detail-kain",
+        "warnacss": "#74222BFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC ASTRO 30S&warna_kain=NAVY",
+        "name": "COTTON CVC ASTRO 30S NAVY",
+        "path": "/detail-kain",
+        "warnacss": "#232C39FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED PIQUE DIAMOND 30S&warna_kain=HITAM REAKTIF SPECIAL",
+        "name": "COTTON COMBED PIQUE DIAMOND 30S HITAM REAKTIF SPECIAL",
+        "path": "/detail-kain",
+        "warnacss": "#212124FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED PIQUE DIAMOND 30S&warna_kain=MISTY M71 PUTIH BLUISH",
+        "name": "COTTON COMBED PIQUE DIAMOND 30S MISTY M71 PUTIH BLUISH",
+        "path": "/detail-kain",
+        "warnacss": "#9094A8FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED PIQUE DIAMOND 30S&warna_kain=NAVY",
+        "name": "COTTON COMBED PIQUE DIAMOND 30S NAVY",
+        "path": "/detail-kain",
+        "warnacss": "#1E2836FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED PIQUE DIAMOND 30S&warna_kain=PUTIH NETRAL",
+        "name": "COTTON COMBED PIQUE DIAMOND 30S PUTIH NETRAL",
+        "path": "/detail-kain",
+        "warnacss": "#EDF5FFFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT MODAL 30S&warna_kain=ARMY GREEN",
+        "name": "COT MODAL 30S ARMY GREEN",
+        "path": "/detail-kain",
+        "warnacss": "#444331FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT MODAL 30S&warna_kain=BEIGE",
+        "name": "COT MODAL 30S BEIGE",
+        "path": "/detail-kain",
+        "warnacss": "#C9AC91FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT MODAL 30S&warna_kain=DUSTY PINK",
+        "name": "COT MODAL 30S DUSTY PINK",
+        "path": "/detail-kain",
+        "warnacss": "#D0AEA8FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT MODAL 30S&warna_kain=HIJAU BOTOL",
+        "name": "COT MODAL 30S HIJAU BOTOL",
+        "path": "/detail-kain",
+        "warnacss": "#2C4644FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT MODAL 30S&warna_kain=JET BLACK",
+        "name": "COT MODAL 30S JET BLACK",
+        "path": "/detail-kain",
+        "warnacss": "#232223FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT MODAL 30S&warna_kain=LILAC",
+        "name": "COT MODAL 30S LILAC",
+        "path": "/detail-kain",
+        "warnacss": "#AD8CB6FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT MODAL 30S&warna_kain=MAROON",
+        "name": "COT MODAL 30S MAROON",
+        "path": "/detail-kain",
+        "warnacss": "#7A232DFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT MODAL 30S&warna_kain=MUSTARD",
+        "name": "COT MODAL 30S MUSTARD",
+        "path": "/detail-kain",
+        "warnacss": "#D28B3AFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT MODAL 30S&warna_kain=NAVY",
+        "name": "COT MODAL 30S NAVY",
+        "path": "/detail-kain",
+        "warnacss": "#222C3AFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT MODAL 30S&warna_kain=ORANGE BATA",
+        "name": "COT MODAL 30S ORANGE BATA",
+        "path": "/detail-kain",
+        "warnacss": "#AF5233FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT MODAL 30S&warna_kain=PUTIH NETRAL",
+        "name": "COT MODAL 30S PUTIH NETRAL",
+        "path": "/detail-kain",
+        "warnacss": "#F4F9FFFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT MODAL 30S&warna_kain=STEEL BLUE",
+        "name": "COT MODAL 30S STEEL BLUE",
+        "path": "/detail-kain",
+        "warnacss": "#4E6A83FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT BAMBOO 30S&warna_kain=ABU MUDA",
+        "name": "COT BAMBOO 30S ABU MUDA",
+        "path": "/detail-kain",
+        "warnacss": "#A5A9B7FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT BAMBOO 30S&warna_kain=ABU SEDANG",
+        "name": "COT BAMBOO 30S ABU SEDANG",
+        "path": "/detail-kain",
+        "warnacss": "#505255FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT BAMBOO 30S&warna_kain=ARMY GREEN",
+        "name": "COT BAMBOO 30S ARMY GREEN",
+        "path": "/detail-kain",
+        "warnacss": "#403F2EFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT BAMBOO 30S&warna_kain=BEIGE",
+        "name": "COT BAMBOO 30S BEIGE",
+        "path": "/detail-kain",
+        "warnacss": "#C8AD94FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT BAMBOO 30S&warna_kain=DUSTY PINK",
+        "name": "COT BAMBOO 30S DUSTY PINK",
+        "path": "/detail-kain",
+        "warnacss": "#D1B2ABFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT BAMBOO 30S&warna_kain=HIJAU BOTOL SPECIAL 2",
+        "name": "COT BAMBOO 30S HIJAU BOTOL SPECIAL 2",
+        "path": "/detail-kain",
+        "warnacss": "#223A38FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT BAMBOO 30S&warna_kain=HITAM REAKTIF SPECIAL",
+        "name": "COT BAMBOO 30S HITAM REAKTIF SPECIAL",
+        "path": "/detail-kain",
+        "warnacss": "#242326FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT BAMBOO 30S&warna_kain=KUNING KENARI",
+        "name": "COT BAMBOO 30S KUNING KENARI",
+        "path": "/detail-kain",
+        "warnacss": "#FFC822FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT BAMBOO 30S&warna_kain=LILAC",
+        "name": "COT BAMBOO 30S LILAC",
+        "path": "/detail-kain",
+        "warnacss": "#AD8FB8FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT BAMBOO 30S&warna_kain=MAROON",
+        "name": "COT BAMBOO 30S MAROON",
+        "path": "/detail-kain",
+        "warnacss": "#6F242BFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT BAMBOO 30S&warna_kain=MERAH CABE",
+        "name": "COT BAMBOO 30S MERAH CABE",
+        "path": "/detail-kain",
+        "warnacss": "#A11A2CFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT BAMBOO 30S&warna_kain=MISTY M71 PUTIH BLUISH",
+        "name": "COT BAMBOO 30S MISTY M71 PUTIH BLUISH",
+        "path": "/detail-kain",
+        "warnacss": "#9395A4FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT BAMBOO 30S&warna_kain=MUSTARD",
+        "name": "COT BAMBOO 30S MUSTARD",
+        "path": "/detail-kain",
+        "warnacss": "#D18A35FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT BAMBOO 30S&warna_kain=NAVY",
+        "name": "COT BAMBOO 30S NAVY",
+        "path": "/detail-kain",
+        "warnacss": "#23303EFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT BAMBOO 30S&warna_kain=ORANGE BATA",
+        "name": "COT BAMBOO 30S ORANGE BATA",
+        "path": "/detail-kain",
+        "warnacss": "#AC4E2DFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT BAMBOO 30S&warna_kain=PINK",
+        "name": "COT BAMBOO 30S PINK",
+        "path": "/detail-kain",
+        "warnacss": "#F0BAD7FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT BAMBOO 30S&warna_kain=PUTIH NERTAL",
+        "name": "COT BAMBOO 30S PUTIH NETRAL",
+        "path": "/detail-kain",
+        "warnacss": "#F4F8FFFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT BAMBOO 30S&warna_kain=STEEL BLUE",
+        "name": "COT BAMBOO 30S STEEL BLUE",
+        "path": "/detail-kain",
+        "warnacss": "#4D6A84FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC PIQUE HEXAGON 24S&warna_kain=ABU MUDA",
+        "name": "COTTON CVC PIQUE HEXAGON 24S ABU MUDA",
+        "path": "/detail-kain",
+        "warnacss": "#9797A0FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC PIQUE HEXAGON 24S&warna_kain=ABU TUA",
+        "name": "COTTON CVC PIQUE HEXAGON 24S ABU TUA",
+        "path": "/detail-kain",
+        "warnacss": "#494B4FFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC PIQUE HEXAGON 24S&warna_kain=BEIGE",
+        "name": "COTTON CVC PIQUE HEXAGON 24S BEIGE",
+        "path": "/detail-kain",
+        "warnacss": "#BC9F86FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC PIQUE HEXAGON 24S&warna_kain=BENHUR SPECIAL 2",
+        "name": "COTTON CVC PIQUE HEXAGON 24S BENHUR SPECIAL 2",
+        "path": "/detail-kain",
+        "warnacss": "#033E78FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC PIQUE HEXAGON 24S&warna_kain=COKLAT KOPI",
+        "name": "COTTON CVC PIQUE HEXAGON 24S COKLAT KOPI",
+        "path": "/detail-kain",
+        "warnacss": "#322826FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC PIQUE HEXAGON 24S&warna_kain=FUCHSIA",
+        "name": "COTTON CVC PIQUE HEXAGON 24S FUCHSIA",
+        "path": "/detail-kain",
+        "warnacss": "#B93366FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC PIQUE HEXAGON 24S&warna_kain=HIJAU BOTOL",
+        "name": "COTTON CVC PIQUE HEXAGON 24S HIJAU BOTOL",
+        "path": "/detail-kain",
+        "warnacss": "#223E3EFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC PIQUE HEXAGON 24S&warna_kain=HIJAU FUJI",
+        "name": "COTTON CVC PIQUE HEXAGON 24S HIJAU FUJI",
+        "path": "/detail-kain",
+        "warnacss": "#038336FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC PIQUE HEXAGON 24S&warna_kain=HIJAU PUCUK",
+        "name": "COTTON CVC PIQUE HEXAGON 24S HIJAU PUCUK",
+        "path": "/detail-kain",
+        "warnacss": "#8AB344FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC PIQUE HEXAGON 24S&warna_kain=HIJAU TNI",
+        "name": "COTTON CVC PIQUE HEXAGON 24S HIJAU TNI",
+        "path": "/detail-kain",
+        "warnacss": "#384034FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC PIQUE HEXAGON 24S&warna_kain=HITAM REAKTIF SPECIAL",
+        "name": "COTTON CVC PIQUE HEXAGON 24S HITAM REAKTIF SPECIAL",
+        "path": "/detail-kain",
+        "warnacss": "#202022FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC PIQUE HEXAGON 24S&warna_kain=KUNING KENARI",
+        "name": "COTTON CVC PIQUE HEXAGON 24S KUNING KENARI",
+        "path": "/detail-kain",
+        "warnacss": "#FFC22FFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC PIQUE HEXAGON 24S&warna_kain=LILAC",
+        "name": "COTTON CVC PIQUE HEXAGON 24S LILAC",
+        "path": "/detail-kain",
+        "warnacss": "#AB86AFFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC PIQUE HEXAGON 24S&warna_kain=MAROON",
+        "name": "COTTON CVC PIQUE HEXAGON 24S MAROON",
+        "path": "/detail-kain",
+        "warnacss": "#5B212AFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC PIQUE HEXAGON 24S&warna_kain=MERAH CABE",
+        "name": "COTTON CVC PIQUE HEXAGON 24S MERAH CABE",
+        "path": "/detail-kain",
+        "warnacss": "#9A1829FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC PIQUE HEXAGON 24S&warna_kain=MISTY M71 PUTIH BLUISH",
+        "name": "COTTON CVC PIQUE HEXAGON 24S MISTY M71 PUTIH BLUISH",
+        "path": "/detail-kain",
+        "warnacss": "#969BB3FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC PIQUE HEXAGON 24S&warna_kain=NAVY",
+        "name": "COTTON CVC PIQUE HEXAGON 24S NAVY",
+        "path": "/detail-kain",
+        "warnacss": "#1F2733FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC PIQUE HEXAGON 24S&warna_kain=ORANGE",
+        "name": "COTTON CVC PIQUE HEXAGON 24S ORANGE",
+        "path": "/detail-kain",
+        "warnacss": "#D55A26FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC PIQUE HEXAGON 24S&warna_kain=ORANGE BATA",
+        "name": "COTTON CVC PIQUE HEXAGON 24S ORANGE BATA",
+        "path": "/detail-kain",
+        "warnacss": "#A44D2CFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC PIQUE HEXAGON 24S&warna_kain=PUTIH BLUISH",
+        "name": "COTTON CVC PIQUE HEXAGON 24S PUTIH BLUISH",
+        "path": "/detail-kain",
+        "warnacss": "#DDE6FFFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC PIQUE HEXAGON 24S&warna_kain=PUTIH NETRAL",
+        "name": "COTTON CVC PIQUE HEXAGON 24S PUTIH NETRAL",
+        "path": "/detail-kain",
+        "warnacss": "#EEF5FFFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC PIQUE HEXAGON 24S&warna_kain=RUBY RED",
+        "name": "COTTON CVC PIQUE HEXAGON 24S RUBY RED",
+        "path": "/detail-kain",
+        "warnacss": "#851B2CFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC PIQUE HEXAGON 24S&warna_kain=TOSCA",
+        "name": "COTTON CVC PIQUE HEXAGON 24S TOSCA",
+        "path": "/detail-kain",
+        "warnacss": "#007D71FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC PIQUE HEXAGON 24S&warna_kain=TURKIS",
+        "name": "COTTON CVC PIQUE HEXAGON 24S TURKIS",
+        "path": "/detail-kain",
+        "warnacss": "#006898FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC PIQUE HEXAGON 24S&warna_kain=TWOTONE HITAM",
+        "name": "COTTON CVC PIQUE HEXAGON 24S TWOTONE HITAM",
+        "path": "/detail-kain",
+        "warnacss": "#313336FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC PIQUE HEXAGON 24S&warna_kain=UNGU TUA",
+        "name": "COTTON CVC PIQUE HEXAGON 24S UNGU TUA",
+        "path": "/detail-kain",
+        "warnacss": "#382F4DFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED FLEECE&warna_kain=ABU MUDA",
+        "name": "COTTON COMBED FLEECE ABU MUDA",
+        "path": "/detail-kain",
+        "warnacss": "#AAACBCFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED FLEECE&warna_kain=ABU TUA",
+        "name": "COTTON COMBED FLEECE ABU TUA",
+        "path": "/detail-kain",
+        "warnacss": "#494647FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED FLEECE&warna_kain=ARMY GREEN SPECIAL",
+        "name": "COTTON COMBED FLEECE ARMY GREEN SPECIAL",
+        "path": "/detail-kain",
+        "warnacss": "#3E4031FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED FLEECE&warna_kain=BEIGE",
+        "name": "COTTON COMBED FLEECE BEIGE",
+        "path": "/detail-kain",
+        "warnacss": "#C3A084FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED FLEECE&warna_kain=DUSTY PINK",
+        "name": "COTTON COMBED FLEECE DUSTY PINK",
+        "path": "/detail-kain",
+        "warnacss": "#E0B4ADFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED FLEECE&warna_kain=HIJAU BOTOL SPC",
+        "name": "COTTON COMBED FLEECE HIJAU BOTOL SPC",
+        "path": "/detail-kain",
+        "warnacss": "#233B39FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED FLEECE&warna_kain=JET BLACK",
+        "name": "COTTON COMBED FLEECE JET BLACK",
+        "path": "/detail-kain",
+        "warnacss": "#242526FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED FLEECE&warna_kain=LILAC",
+        "name": "COTTON COMBED FLEECE LILAC",
+        "path": "/detail-kain",
+        "warnacss": "#B591BBFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED FLEECE&warna_kain=MAROON SPECIAL 2",
+        "name": "COTTON COMBED FLEECE MAROON SPECIAL 2",
+        "path": "/detail-kain",
+        "warnacss": "#782530FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED FLEECE&warna_kain=MERAH CABE SPECIAL 3",
+        "name": "COTTON COMBED FLEECE MERAH CABE SPECIAL 3",
+        "path": "/detail-kain",
+        "warnacss": "#9F182BFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED FLEECE&warna_kain=MISTY M71 PUTIH BLUISH",
+        "name": "COTTON COMBED FLEECE MISTY M71 PUTIH BLUISH",
+        "path": "/detail-kain",
+        "warnacss": "#AEADC1FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED FLEECE&warna_kain=MUSTARD",
+        "name": "COTTON COMBED FLEECE MUSTARD",
+        "path": "/detail-kain",
+        "warnacss": "#D3882FFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED FLEECE&warna_kain=NAVY SPECIAL 2",
+        "name": "COTTON COMBED FLEECE NAVY SPECIAL 2",
+        "path": "/detail-kain",
+        "warnacss": "#212D3CFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED FLEECE&warna_kain=ORANGE BATA",
+        "name": "COTTON COMBED FLEECE ORANGE BATA",
+        "path": "/detail-kain",
+        "warnacss": "#B24E2EFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED FLEECE&warna_kain=PUTIH BLUISH",
+        "name": "COTTON COMBED FLEECE PUTIH BLUISH",
+        "path": "/detail-kain",
+        "warnacss": "#E0E9FFFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED FLEECE&warna_kain=STEEL BLUE",
+        "name": "COTTON COMBED FLEECE STEEL BLUE",
+        "path": "/detail-kain",
+        "warnacss": "#3F627BFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC THREETONE 30S&warna_kain=BIRU",
+        "name": "COTTON CVC THREETONE 30S BIRU",
+        "path": "/detail-kain",
+        "warnacss": "#2B3E47FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC THREETONE 30S&warna_kain=CARIBBEAN BLUE",
+        "name": "COTTON CVC THREETONE 30S CARIBBEAN BLUE",
+        "path": "/detail-kain",
+        "warnacss": "#095965FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC THREETONE 30S&warna_kain=COKLAT",
+        "name": "COTTON CVC THREETONE 30S COKLAT",
+        "path": "/detail-kain",
+        "warnacss": "#403330FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC THREETONE 30S&warna_kain=HIJAU",
+        "name": "COTTON CVC THREETONE 30S HIJAU",
+        "path": "/detail-kain",
+        "warnacss": "#3A453FFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC THREETONE 30S&warna_kain=HIJAU PUCUK",
+        "name": "COTTON CVC THREETONE 30S HIJAU PUCUK",
+        "path": "/detail-kain",
+        "warnacss": "#4B6138FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC THREETONE 30S&warna_kain=KUNING GELAP",
+        "name": "COTTON CVC THREETONE 30S KUNING GELAP",
+        "path": "/detail-kain",
+        "warnacss": "#6D592EFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC THREETONE 30S&warna_kain=MERAH CABE",
+        "name": "COTTON CVC THREETONE 30S MERAH CABE",
+        "path": "/detail-kain",
+        "warnacss": "#512F39FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC THREETONE 30S&warna_kain=NAVY",
+        "name": "COTTON CVC THREETONE 30S NAVY",
+        "path": "/detail-kain",
+        "warnacss": "#3E4D65FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC THREETONE 30S&warna_kain=ORANGE",
+        "name": "COTTON CVC THREETONE 30S ORANGE",
+        "path": "/detail-kain",
+        "warnacss": "#66412CFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC THREETONE 30S&warna_kain=UNGU",
+        "name": "COTTON CVC THREETONE 30S UNGU",
+        "path": "/detail-kain",
+        "warnacss": "#",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC THREETONE 30S&warna_kain=UNGU MUDA",
+        "name": "COTTON CVC THREETONE 30S UNGU MUDA",
+        "path": "/detail-kain",
+        "warnacss": "#4F4C5DFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED BABY TERRY&warna_kain=ABU MUDA",
+        "name": "COTTON COMBED BABY TERRY ABU MUDA",
+        "path": "/detail-kain",
+        "warnacss": "#A6A9B7FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED BABY TERRY&warna_kain=ABU TUA",
+        "name": "COTTON COMBED BABY TERRY ABU TUA",
+        "path": "/detail-kain",
+        "warnacss": "#484646FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED BABY TERRY&warna_kain=ARMY GREEN",
+        "name": "COTTON COMBED BABY TERRY ARMY GREEN",
+        "path": "/detail-kain",
+        "warnacss": "#3F4131FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED BABY TERRY&warna_kain=BEIGE",
+        "name": "COTTON COMBED BABY TERRY BEIGE",
+        "path": "/detail-kain",
+        "warnacss": "#C6AA90FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED BABY TERRY&warna_kain=BURGUNDY",
+        "name": "COTTON COMBED BABY TERRY BURGUNDY",
+        "path": "/detail-kain",
+        "warnacss": "#61242FFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED BABY TERRY&warna_kain=COKLAT SUSU",
+        "name": "COTTON COMBED BABY TERRY COKLAT SUSU",
+        "path": "/detail-kain",
+        "warnacss": "#98826CFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED BABY TERRY&warna_kain=DUSTY PINK",
+        "name": "COTTON COMBED BABY TERRY DUSTY PINK",
+        "path": "/detail-kain",
+        "warnacss": "#CFADA6FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED BABY TERRY&warna_kain=DUSTY ROSE",
+        "name": "COTTON COMBED BABY TERRY DUSTY ROSE",
+        "path": "/detail-kain",
+        "warnacss": "#9B6C6AFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED BABY TERRY&warna_kain=HIJAU BOTOL",
+        "name": "COTTON COMBED BABY TERRY HIJAU BOTOL",
+        "path": "/detail-kain",
+        "warnacss": "#253D39FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED BABY TERRY&warna_kain=HIJAU FUJI",
+        "name": "COTTON COMBED BABY TERRY HIJAU FUJI",
+        "path": "/detail-kain",
+        "warnacss": "#008A3AFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED BABY TERRY&warna_kain=HITAM REAKTIF",
+        "name": "COTTON COMBED BABY TERRY HITAM REAKTIF",
+        "path": "/detail-kain",
+        "warnacss": "#232427FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED BABY TERRY&warna_kain=HONEY",
+        "name": "COTTON COMBED BABY TERRY HONEY",
+        "path": "/detail-kain",
+        "warnacss": "#DC9D30FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED BABY TERRY&warna_kain=KUNING KENARI",
+        "name": "COTTON COMBED BABY TERRY KUNING KENARI",
+        "path": "/detail-kain",
+        "warnacss": "#FFC428FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED BABY TERRY&warna_kain=LILAC",
+        "name": "COTTON COMBED BABY TERRY LILAC",
+        "path": "/detail-kain",
+        "warnacss": "#B18EB8FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED BABY TERRY&warna_kain=MAROON",
+        "name": "COTTON COMBED BABY TERRY MAROON",
+        "path": "/detail-kain",
+        "warnacss": "#78212BFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED BABY TERRY&warna_kain=MERAH CABE",
+        "name": "COTTON COMBED BABY TERRY MERAH CABE",
+        "path": "/detail-kain",
+        "warnacss": "#A3182AFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED BABY TERRY&warna_kain=MINERAL GREEN",
+        "name": "COTTON COMBED BABY TERRY MINERAL GREEN",
+        "path": "/detail-kain",
+        "warnacss": "#627B74FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED BABY TERRY&warna_kain=MISTY M71 PUTIH BLUISH",
+        "name": "COTTON COMBED BABY TERRY MISTY M71 PUTIH BLUISH",
+        "path": "/detail-kain",
+        "warnacss": "#9699ADFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED BABY TERRY&warna_kain=MUSTARD",
+        "name": "COTTON COMBED BABY TERRY MUSTARD",
+        "path": "/detail-kain",
+        "warnacss": "#D48C35FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED BABY TERRY&warna_kain=NAVY",
+        "name": "COTTON COMBED BABY TERRY NAVY",
+        "path": "/detail-kain",
+        "warnacss": "#202938FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED BABY TERRY&warna_kain=ORANGE BATA",
+        "name": "COTTON COMBED BABY TERRY ORANGE BATA",
+        "path": "/detail-kain",
+        "warnacss": "#AB4F2FFFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED BABY TERRY&warna_kain=PUTIH BLUISH",
+        "name": "COTTON COMBED BABY TERRY PUTIH BLUISH",
+        "path": "/detail-kain",
+        "warnacss": "#E1EDFFFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED BABY TERRY&warna_kain=PUTIH NETRAL",
+        "name": "COTTON COMBED BABY TERRY PUTIH NETRAL",
+        "path": "/detail-kain",
+        "warnacss": "#F4FAFFFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED BABY TERRY&warna_kain=SALEM",
+        "name": "COTTON COMBED BABY TERRY SALEM",
+        "path": "/detail-kain",
+        "warnacss": "#F4919BFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED BABY TERRY&warna_kain=STEEL BLUE",
+        "name": "COTTON COMBED BABY TERRY STEEL BLUE",
+        "path": "/detail-kain",
+        "warnacss": "#496681FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED BABY TERRY&warna_kain=TOSCA MUDA",
+        "name": "COTTON COMBED BABY TERRY TOSCA MUDA",
+        "path": "/detail-kain",
+        "warnacss": "#71CABDFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 20S&warna_kain=BENHUR",
+        "name": "COTTON COMBED 20S BENHUR",
+        "path": "/detail-kain",
+        "warnacss": "#",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 20S&warna_kain=HITAM REAKTIF",
+        "name": "COTTON COMBED 20S HITAM REAKTIF",
+        "path": "/detail-kain",
+        "warnacss": "#232326FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 20S&warna_kain=HITAM SULFUR",
+        "name": "COTTON COMBED 20S HITAM SULFUR",
+        "path": "/detail-kain",
+        "warnacss": "#",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 20S&warna_kain=MAROON",
+        "name": "COTTON COMBED 20S MAROON",
+        "path": "/detail-kain",
+        "warnacss": "#751F29FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 20S&warna_kain=MERAH CABE",
+        "name": "COTTON COMBED 20S MERAH CABE",
+        "path": "/detail-kain",
+        "warnacss": "#",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 20S&warna_kain=NAVY",
+        "name": "COTTON COMBED 20S NAVY",
+        "path": "/detail-kain",
+        "warnacss": "#1F2A38FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 20S&warna_kain=PUTIH NETRAL",
+        "name": "COTTON COMBED 20S PUTIH NETRAL",
+        "path": "/detail-kain",
+        "warnacss": "#F2F7FFFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=US PIMA COTTON 30S&warna_kain=HITAM REAKTIF SPECIAL",
+        "name": "COTTON US PIMA COTTON 30S HITAM REAKTIF SPECIAL",
+        "path": "/detail-kain",
+        "warnacss": "#232325FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED STRIPES 30S TYPE 1&warna_kain=BENHUR PUTIH",
+        "name": "COTTON COMBED STRIPES 30S TYPE 1 BENHUR PUTIH",
+        "path": "/detail-kain",
+        "warnacss": "#14477EFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED STRIPES 30S TYPE 1&warna_kain=MAROON PUTIH",
+        "name": "COTTON COMBED STRIPES 30S TYPE 1 MAROON PUTIH",
+        "path": "/detail-kain",
+        "warnacss": "#79232CFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT GALAXY BLACK 30S&warna_kain=MISTY M71 PUTIH BLUISH",
+        "name": "COT GALAXY BLACK 30S MISTY M71 PUTIH BLUISH",
+        "path": "/detail-kain",
+        "warnacss": "#9093A6FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT GALAXY BLACK 30S&warna_kain=PUTIH NETRAL",
+        "name": "COT GALAXY BLACK 30S PUTIH NETRAL",
+        "path": "/detail-kain",
+        "warnacss": "#E2EAFFFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT GALAXY RAINBOW 30S&warna_kain=CREAM MUDA",
+        "name": "COT GALAXY RAINBOW 30S CREAM MUDA",
+        "path": "/detail-kain",
+        "warnacss": "#EAE6DAFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT GALAXY RAINBOW 30S&warna_kain=PUTIH NETRAL",
+        "name": "COT GALAXY RAINBOW 30S PUTIH NETRAL",
+        "path": "/detail-kain",
+        "warnacss": "#E2EAFFFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT GALAXY SCOTLIGHT 30S&warna_kain=HITAM REAKTIF SPECIAL",
+        "name": "COT GALAXY SCOTLIGHT 30S HITAM REAKTIF SPECIAL",
+        "path": "/detail-kain",
+        "warnacss": "#242528FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT GALAXY SCOTLIGHT 30S&warna_kain=NAVY",
+        "name": "COT GALAXY SCOTLIGHT 30S NAVY",
+        "path": "/detail-kain",
+        "warnacss": "#1D2B39FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT GALAXY SCOTLIGHT 30S&warna_kain=PUTIH NETRAL",
+        "name": "COT GALAXY SCOTLIGHT 30S PUTIH NETRAL",
+        "path": "/detail-kain",
+        "warnacss": "#E9F1FFFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT GALAXY WHITE 30S&warna_kain=HITAM REAKTIF SPECIAL",
+        "name": "COT GALAXY WHITE 30S HITAM REAKTIF SPECIAL",
+        "path": "/detail-kain",
+        "warnacss": "#252528FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT GALAXY WHITE 30S&warna_kain=MAROON SPECIAL",
+        "name": "COT GALAXY WHITE 30S MAROON SPECIAL",
+        "path": "/detail-kain",
+        "warnacss": "#7B2530FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT GALAXY WHITE 30S&warna_kain=NAVY",
+        "name": "COT GALAXY WHITE 30S NAVY",
+        "path": "/detail-kain",
+        "warnacss": "#283853FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COT GALAXY WHITE 30S&warna_kain=TOSCA",
+        "name": "COT GALAXY WHITE 30S TOSCA",
+        "path": "/detail-kain",
+        "warnacss": "#0A555FFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC FUZY 30S&warna_kain=ABU MUDA",
+        "name": "COTTON CVC FUZY 30S ABU MUDA",
+        "path": "/detail-kain",
+        "warnacss": "#AAA7A7FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC FUZY 30S&warna_kain=BIRU MUDA",
+        "name": "COTTON CVC FUZY 30S BIRU MUDA",
+        "path": "/detail-kain",
+        "warnacss": "#77A0C6FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC FUZY 30S&warna_kain=HIJAU MINT",
+        "name": "COTTON CVC FUZY 30S HIJAU MINT",
+        "path": "/detail-kain",
+        "warnacss": "#A4D5BCFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC FUZY 30S&warna_kain=KUNING SEDANG",
+        "name": "COTTON CVC FUZY 30S KUNING SEDANG",
+        "path": "/detail-kain",
+        "warnacss": "#F9BB23FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC FUZY 30S&warna_kain=PUTIH NETRAL",
+        "name": "COTTON CVC FUZY 30S PUTIH NETRAL",
+        "path": "/detail-kain",
+        "warnacss": "#E0E8FFFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC NEW SLUB SIRO 30S&warna_kain=BENHUR",
+        "name": "COTTON CVC NEW SLUB SIRO 30S BENHUR",
+        "path": "/detail-kain",
+        "warnacss": "#5D7C9DFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC NEW SLUB SIRO 30S&warna_kain=HIJAU BOTOL",
+        "name": "COTTON CVC NEW SLUB SIRO 30S HIJAU BOTOL",
+        "path": "/detail-kain",
+        "warnacss": "#383E3DFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC NEW SLUB SIRO 30S&warna_kain=HITAM",
+        "name": "COTTON CVC NEW SLUB SIRO 30S HITAM",
+        "path": "/detail-kain",
+        "warnacss": "#666768FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC NEW SLUB SIRO 30S&warna_kain=MERAH CABE",
+        "name": "COTTON CVC NEW SLUB SIRO 30S MERAH CABE",
+        "path": "/detail-kain",
+        "warnacss": "#B66A70FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC NEW SLUB SIRO 30S&warna_kain=NAVY",
+        "name": "COTTON CVC NEW SLUB SIRO 30S NAVY",
+        "path": "/detail-kain",
+        "warnacss": "#6A7586FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC NEW SLUB SIRO 30S&warna_kain=TOSCA",
+        "name": "COTTON CVC NEW SLUB SIRO 30S TOSCA",
+        "path": "/detail-kain",
+        "warnacss": "#638990FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC SIRO CHAMELEON 30S&warna_kain=ABU",
+        "name": "COTTON CVC SIRO CHAMELEON 30S ABU",
+        "path": "/detail-kain",
+        "warnacss": "#73798BFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC FLEECE&warna_kain=JET BLACK",
+        "name": "COTTON CVC FLEECE JET BLACK",
+        "path": "/detail-kain",
+        "warnacss": "#242426FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC TWOTONE 30S&warna_kain=MERAH HATI",
+        "name": "COTTON CVC TWOTONE 30S MERAH HATI",
+        "path": "/detail-kain",
+        "warnacss": "#70404BFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=CVC TWOTONE 30S&warna_kain=TWOTONE HITAM",
+        "name": "COTTON CVC TWOTONE 30S TWOTONE HITAM",
+        "path": "/detail-kain",
+        "warnacss": "#37393CFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=MAROON",
+        "name": "COTTON COMBED 30S MAROON",
+        "path": "/detail-kain",
+        "warnacss": "#77212BFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=BURGUNDY",
+        "name": "COTTON COMBED 30S BURGUNDY",
+        "path": "/detail-kain",
+        "warnacss": "#622530FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=PINK",
+        "name": "COTTON COMBED 30S PINK",
+        "path": "/detail-kain",
+        "warnacss": "#F0B9D5FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=ABU MUDA",
+        "name": "COTTON COMBED 30S ABU MUDA",
+        "path": "/detail-kain",
+        "warnacss": "#A7AAB8FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=ABU SEDANG",
+        "name": "COTTON COMBED 30S ABU SEDANG",
+        "path": "/detail-kain",
+        "warnacss": "#858689FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=ABU TUA",
+        "name": "COTTON COMBED 30S ABU TUA",
+        "path": "/detail-kain",
+        "warnacss": "#474545FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=ALMOND BROWN",
+        "name": "COTTON COMBED 30S ALMOND BROWN",
+        "path": "/detail-kain",
+        "warnacss": "#9F704CFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=ARMY GREEN",
+        "name": "COTTON COMBED 30S ARMY GREEN",
+        "path": "/detail-kain",
+        "warnacss": "#40402FFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=ATLANTIC SEA",
+        "name": "COTTON COMBED 30S ATLANTIC SEA",
+        "path": "/detail-kain",
+        "warnacss": "#204651FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=AUTUMN ORANGE",
+        "name": "COTTON COMBED 30S AUTUMN ORANGE",
+        "path": "/detail-kain",
+        "warnacss": "#843E2AFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=BABY PINK",
+        "name": "COTTON COMBED 30S BABY PINK",
+        "path": "/detail-kain",
+        "warnacss": "#F3D4BFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=BABY TURKIS",
+        "name": "COTTON COMBED 30S BABY TURKIS",
+        "path": "/detail-kain",
+        "warnacss": "#",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=BABY YELLOW",
+        "name": "COTTON COMBED 30S BABY YELLOW",
+        "path": "/detail-kain",
+        "warnacss": "#FAEB94FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=BEIGE",
+        "name": "COTTON COMBED 30S BEIGE",
+        "path": "/detail-kain",
+        "warnacss": "#C8AB90FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=BENHUR",
+        "name": "COTTON COMBED 30S BENHUR",
+        "path": "/detail-kain",
+        "warnacss": "#003C75FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=BIRU MUDA",
+        "name": "COTTON COMBED 30S BIRU MUDA",
+        "path": "/detail-kain",
+        "warnacss": "#6D9DCDFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=BIRU TOSCA",
+        "name": "COTTON COMBED 30S BIRU TOSCA",
+        "path": "/detail-kain",
+        "warnacss": "#006579FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=BLUSH RED",
+        "name": "COTTON COMBED 30S BLUSH RED",
+        "path": "/detail-kain",
+        "warnacss": "#A2525AFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=BRIGHT ORANGE",
+        "name": "COTTON COMBED 30S BRIGHT ORANGE",
+        "path": "/detail-kain",
+        "warnacss": "#FA8D3DFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=BUBBLEGUM PINK",
+        "name": "COTTON COMBED 30S BUBBLEGUM PINK",
+        "path": "/detail-kain",
+        "warnacss": "#E57594FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=CACTUS GREEN",
+        "name": "COTTON COMBED 30S CACTUS GREEN",
+        "path": "/detail-kain",
+        "warnacss": "#535E44FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=CINNAMON",
+        "name": "COTTON COMBED 30S CINNAMON",
+        "path": "/detail-kain",
+        "warnacss": "#7D4A38FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=COKLAT KOPI",
+        "name": "COTTON COMBED 30S COKLAT KOPI",
+        "path": "/detail-kain",
+        "warnacss": "#3E3332FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=COKLAT SUSU",
+        "name": "COTTON COMBED 30S COKLAT SUSU",
+        "path": "/detail-kain",
+        "warnacss": "#957F68FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=CREAM",
+        "name": "COTTON COMBED 30S CREAM",
+        "path": "/detail-kain",
+        "warnacss": "#FAE3C5FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=DARK MUSTARD",
+        "name": "COTTON COMBED 30S DARK MUSTARD",
+        "path": "/detail-kain",
+        "warnacss": "#9B5D23FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=DARK OLIVE",
+        "name": "COTTON COMBED 30S DARK OLIVE",
+        "path": "/detail-kain",
+        "warnacss": "#70604BFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=DEEP BLUE",
+        "name": "COTTON COMBED 30S DEEP BLUE",
+        "path": "/detail-kain",
+        "warnacss": "#005978FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=DUSTY BLUE",
+        "name": "COTTON COMBED 30S DUSTY BLUE",
+        "path": "/detail-kain",
+        "warnacss": "#7A8BA0FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=DUSTY LILAC",
+        "name": "COTTON COMBED 30S DUSTY LILAC",
+        "path": "/detail-kain",
+        "warnacss": "#A48C90FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=DUSTY PEACH",
+        "name": "COTTON COMBED 30S DUSTY PEACH",
+        "path": "/detail-kain",
+        "warnacss": "#D78D83FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=DUSTY PINK",
+        "name": "COTTON COMBED 30S DUSTY PINK",
+        "path": "/detail-kain",
+        "warnacss": "#D0AFA8FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=DUSTY ROSE",
+        "name": "COTTON COMBED 30S DUSTY ROSE",
+        "path": "/detail-kain",
+        "warnacss": "#9A6B6AFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=DUSTY VIOLET",
+        "name": "COTTON COMBED 30S DUSTY VIOLET",
+        "path": "/detail-kain",
+        "warnacss": "#91737FFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=ELECTRIC LIME",
+        "name": "COTTON COMBED 30S ELECTRIC LIME",
+        "path": "/detail-kain",
+        "warnacss": "#D5CE29FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=FUCHSIA",
+        "name": "COTTON COMBED 30S FUCHSIA",
+        "path": "/detail-kain",
+        "warnacss": "#B7275EFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=HIJAU BOTOL",
+        "name": "COTTON COMBED 30S HIJAU BOTOL",
+        "path": "/detail-kain",
+        "warnacss": "#294543FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=HIJAU BOTOL SPECIAL",
+        "name": "COTTON COMBED 30S HIJAU BOTOL SPECIAL",
+        "path": "/detail-kain",
+        "warnacss": "#253D3AFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=HIJAU FUJI",
+        "name": "COTTON COMBED 30S HIJAU FUJI",
+        "path": "/detail-kain",
+        "warnacss": "#00893AFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=HIJAU MINT",
+        "name": "COTTON COMBED 30S HIJAU MINT",
+        "path": "/detail-kain",
+        "warnacss": "#B7E5D5FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=HIJAU PUCUK",
+        "name": "COTTON COMBED 30S HIJAU PUCUK",
+        "path": "/detail-kain",
+        "warnacss": "#8ABF47FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=HIJAU TNI",
+        "name": "COTTON COMBED 30S HIJAU TNI",
+        "path": "/detail-kain",
+        "warnacss": "#4A4432FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=HITAM REAKTIF",
+        "name": "COTTON COMBED 30S HITAM REAKTIF",
+        "path": "/detail-kain",
+        "warnacss": "#232326FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=HITAM SULFUR",
+        "name": "COTTON COMBED 30S HITAM SULFUR",
+        "path": "/detail-kain",
+        "warnacss": "#222224FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=HONEY",
+        "name": "COTTON COMBED 30S HONEY",
+        "path": "/detail-kain",
+        "warnacss": "#DB9F31FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=JET BLACK",
+        "name": "COTTON COMBED 30S JET BLACK",
+        "path": "/detail-kain",
+        "warnacss": "#222123FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=KUNING KENARI",
+        "name": "COTTON COMBED 30S KUNING KENARI",
+        "path": "/detail-kain",
+        "warnacss": "#FFC510FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=KUNING LEMON",
+        "name": "COTTON COMBED 30S KUNING LEMON",
+        "path": "/detail-kain",
+        "warnacss": "#FFD900FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=KUNING MAS",
+        "name": "COTTON COMBED 30S KUNING MAS",
+        "path": "/detail-kain",
+        "warnacss": "#FF9E14FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=LAVENDER",
+        "name": "COTTON COMBED 30S LAVENDER",
+        "path": "/detail-kain",
+        "warnacss": "#9183B2FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=LIGHT BROWN",
+        "name": "COTTON COMBED 30S LIGHT BROWN",
+        "path": "/detail-kain",
+        "warnacss": "#BBA79AFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=LIGHT GREY",
+        "name": "COTTON COMBED 30S LIGHT GREY",
+        "path": "/detail-kain",
+        "warnacss": "#A5A4A2FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=LILAC",
+        "name": "COTTON COMBED 30S LILAC",
+        "path": "/detail-kain",
+        "warnacss": "#B28EB8FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=MAGENTA",
+        "name": "COTTON COMBED 30S MAGENTA",
+        "path": "/detail-kain",
+        "warnacss": "#6A284CFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=MERAH CABE",
+        "name": "COTTON COMBED 30S MERAH CABE",
+        "path": "/detail-kain",
+        "warnacss": "#A0182AFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=MINERAL BLUE",
+        "name": "COTTON COMBED 30S MINERAL BLUE",
+        "path": "/detail-kain",
+        "warnacss": "#4A6B76FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=MINERAL GREEN",
+        "name": "COTTON COMBED 30S MINERAL GREEN",
+        "path": "/detail-kain",
+        "warnacss": "#627B73FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=MISTY M71 PUTIH BLUISH",
+        "name": "COTTON COMBED 30S MISTY M71 PUTIH BLUISH",
+        "path": "/detail-kain",
+        "warnacss": "#9699ADFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=MUSTARD",
+        "name": "COTTON COMBED 30S MUSTARD",
+        "path": "/detail-kain",
+        "warnacss": "#D48B35FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=NAVY",
+        "name": "COTTON COMBED 30S NAVY",
+        "path": "/detail-kain",
+        "warnacss": "#1F2937FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=OLIVE GREEN",
+        "name": "COTTON COMBED 30S OLIVE GREEN",
+        "path": "/detail-kain",
+        "warnacss": "#8E8665FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=ORANGE",
+        "name": "COTTON COMBED 30S ORANGE",
+        "path": "/detail-kain",
+        "warnacss": "#EE5D22FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=ORANGE BATA",
+        "name": "COTTON COMBED 30S ORANGE BATA",
+        "path": "/detail-kain",
+        "warnacss": "#AD4F2DFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=PALLADIAN BLUE",
+        "name": "COTTON COMBED 30S PALLADIAN BLUE",
+        "path": "/detail-kain",
+        "warnacss": "#A9B3B7FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=PUTIH BLUISH",
+        "name": "COTTON COMBED 30S PUTIH BLUISH",
+        "path": "/detail-kain",
+        "warnacss": "#DEE9FFFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=PUTIH NETRAL",
+        "name": "COTTON COMBED 30S PUTIH NETRAL",
+        "path": "/detail-kain",
+        "warnacss": "#F3F8FFFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=RED PLUM",
+        "name": "COTTON COMBED 30S RED PLUM",
+        "path": "/detail-kain",
+        "warnacss": "#6A3A43FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=ROYAL PURPLE",
+        "name": "COTTON COMBED 30S ROYAL PURPLE",
+        "path": "/detail-kain",
+        "warnacss": "#563B6CFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=RUSTIC ROSE",
+        "name": "COTTON COMBED 30S RUSTIC ROSE",
+        "path": "/detail-kain",
+        "warnacss": "#966F6BFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=SAGE GREEN",
+        "name": "COTTON COMBED 30S SAGE GREEN",
+        "path": "/detail-kain",
+        "warnacss": "#868A7CFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=SALEM",
+        "name": "COTTON COMBED 30S SALEM",
+        "path": "/detail-kain",
+        "warnacss": "#F4909CFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=SALMON RED",
+        "name": "COTTON COMBED 30S SALMON RED",
+        "path": "/detail-kain",
+        "warnacss": "#E16763FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=SEAFOAM GREEN",
+        "name": "COTTON COMBED 30S SEAFOAM GREEN",
+        "path": "/detail-kain",
+        "warnacss": "#A9B2A8FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=SKY BLUE",
+        "name": "COTTON COMBED 30S SKY BLUE",
+        "path": "/detail-kain",
+        "warnacss": "#86B2D0FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=SOFT NAVY",
+        "name": "COTTON COMBED 30S SOFT NAVY",
+        "path": "/detail-kain",
+        "warnacss": "#",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=STEEL BLUE",
+        "name": "COTTON COMBED 30S STEEL BLUE",
+        "path": "/detail-kain",
+        "warnacss": "#49657EFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=STONE GREEN",
+        "name": "COTTON COMBED 30S STONE GREEN",
+        "path": "/detail-kain",
+        "warnacss": "#517765FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=STONE GREY",
+        "name": "COTTON COMBED 30S STONE GREY",
+        "path": "/detail-kain",
+        "warnacss": "#566065FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=TERRACOTTA",
+        "name": "COTTON COMBED 30S TERRACOTTA",
+        "path": "/detail-kain",
+        "warnacss": "#B67161FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=TOFFEE",
+        "name": "COTTON COMBED 30S TOFFEE",
+        "path": "/detail-kain",
+        "warnacss": "#654833FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=TOSCA",
+        "name": "COTTON COMBED 30S TOSCA",
+        "path": "/detail-kain",
+        "warnacss": "#008074FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=TOSCA MUDA",
+        "name": "COTTON COMBED 30S TOSCA MUDA",
+        "path": "/detail-kain",
+        "warnacss": "#6FC9BCFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=TOSCA TUA",
+        "name": "COTTON COMBED 30S TOSCA TUA",
+        "path": "/detail-kain",
+        "warnacss": "#01525BFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=TURKIS",
+        "name": "COTTON COMBED 30S TURKIS",
+        "path": "/detail-kain",
+        "warnacss": "#008EB3FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=TURKIS MUDA",
+        "name": "COTTON COMBED 30S TURKIS MUDA",
+        "path": "/detail-kain",
+        "warnacss": "#59BFD4FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=TURKIS TUA",
+        "name": "COTTON COMBED 30S TURKIS TUA",
+        "path": "/detail-kain",
+        "warnacss": "#006CA0FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=TWILIGHT MAUVE",
+        "name": "COTTON COMBED 30S TWILIGHT MAUVE",
+        "path": "/detail-kain",
+        "warnacss": "#826E72FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=UNGU TUA",
+        "name": "COTTON COMBED 30S UNGU TUA",
+        "path": "/detail-kain",
+        "warnacss": "#382F4DFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=VINTAGE VIOLET",
+        "name": "COTTON COMBED 30S VINTAGE VIOLET",
+        "path": "/detail-kain",
+        "warnacss": "#8D5E73FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=COMBED 30S&warna_kain=WOODROSE",
+        "name": "COTTON COMBED 30S WOODROSE",
+        "path": "/detail-kain",
+        "warnacss": "#BBA2A7FF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=POLYESTER ACTIVEDRY EVOLT&warna_kain=MAROON",
+        "name": "POLYESTER ACTIVEDRY EVOLT MAROON",
+        "path": "/detail-kain",
+        "warnacss": "#",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=POLYESTER ACTIVEDRY EVOLT&warna_kain=PUTIH BLUISH",
+        "name": "POLYESTER ACTIVEDRY EVOLT PUTIH BLUISH",
+        "path": "/detail-kain",
+        "warnacss": "#DBE3FFFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=POLYESTER SCUBA&warna_kain=HITAM",
+        "name": "POLYESTER SCUBA HITAM",
+        "path": "/detail-kain",
+        "warnacss": "#2A2C2EFF",
+        "type": "kain"
+      }
+    },
+    {
+      "item": {
+        "slug": "?jenis_kain=POLYESTER SCUBA&warna_kain=PUTIH BLUISH",
+        "name": "POLYESTER SCUBA",
+        "path": "/detail-kain",
+        "warnacss": "#D9E1FFFF",
+        "type": "kain"
+      }
+    },{
+      "item":{
+        "slug":"?jenis_kain=CARDED 24S&warna_kain=NAVY",
+        "name":"COTTON CARDED 24S NAVY",
+        "path":"/detail-kain",
+        "warnacss":"#1F2836FF",
+        "type":"kain"
+      }
+    },{
+      "item":{
+        "slug":"?jenis_kain=CARDED 30S&warna_kain=ABU MUDA (A)",
+        "name":"COTTON CARDED 30S ABU MUDA (A)",
+        "path":"/detail-kain",
+        "warnacss":"#",
+        "type":"kain"
+      }
+    },{
+      "item":{
+        "slug":"?jenis_kain=CARDED 30S&warna_kain=ABU TUA (A)",
+        "name":"COTTON CARDED 30S ABU TUA (A)",
+        "path":"/detail-kain",
+        "warnacss":"#",
+        "type":"kain"
+      }
+    },{
+      "item":{
+        "slug":"?jenis_kain=CARDED 30S&warna_kain=BENHUR",
+        "name":"COTTON CARDED 30S BENHUR",
+        "path":"/detail-kain",
+        "warnacss":"#",
+        "type":"kain"
+      }
+    },{
+      "item":{
+        "slug":"?jenis_kain=CARDED 30S&warna_kain=HITAM REAKTIF",
+        "name":"COTTON CARDED 30S HITAM REAKTIF",
+        "path":"/detail-kain",
+        "warnacss":"#232426FF",
+        "type":"kain"
+      }
+    },{
+      "item":{
+        "slug":"?jenis_kain=CARDED 30S&warna_kain=MAROON (A)",
+        "name":"COTTON CARDED 30S MAROON (A)",
+        "path":"/detail-kain",
+        "warnacss":"#",
+        "type":"kain"
+      }
+    },{
+      "item":{
+        "slug":"?jenis_kain=CARDED 30S&warna_kain=MERAH CABE",
+        "name":"COTTON CARDED 30S MERAH CABE",
+        "path":"/detail-kain",
+        "warnacss":"#",
+        "type":"kain"
+      }
+    },{
+      "item":{
+        "slug":"?jenis_kain=CARDED 30S&warna_kain=NAVY",
+        "name":"COTTON CARDED 30S NAVY",
+        "path":"/detail-kain",
+        "warnacss":"#",
+        "type":"kain"
+      }
+    },{
+      "item":{
+        "slug":"?jenis_kain=CARDED 30S&warna_kain=NAVY (A)",
+        "name":"COTTON CARDED 30S NAVY (A)",
+        "path":"/detail-kain",
+        "warnacss":"#",
+        "type":"kain"
+      }
+    },{
+      "item":{
+        "slug":"?jenis_kain=CARDED 30S&warna_kain=TURKIS",
+        "name":"COTTON CARDED 30S TURKIS",
+        "path":"/detail-kain",
+        "warnacss":"#",
+        "type":"kain"
+      }
+    },{
+      "item":{
+        "slug":"?jenis_kain=CVC 24S&warna_kain=MISTY M71 PUTIH BLUISH",
+        "name":"COTTON CVC 24S MISTY M71 PUTIH BLUISH",
+        "path":"/detail-kain",
+        "warnacss":"#999DB5FF",
+        "type":"kain"
+      }
+    },{
+      "item":{
+        "slug":"?jenis_kain=CVC 30S&warna_kain=MISTY M70 PUTIH BLUISH",
+        "name":"COTTON CVC 30S MISTY M70 PUTIH BLUISH",
+        "path":"/detail-kain",
+        "warnacss":"#BBC1E0FF",
+        "type":"kain"
+      }
+    },{
+      "item":{
+        "slug":"?jenis_kain=CVC 30S&warna_kain=MISTY M71 PUTIH BLUISH",
+        "name":"COTTON CVC 30S MISTY M71 PUTIH BLUISH",
+        "path":"/detail-kain",
+        "warnacss":"#979BB4FF",
+        "type":"kain"
+      }
+    },{
+      "item":{
+        "slug":"?jenis_kain=TC 20S M71 BODY SIZE&warna_kain=PUTIH BLUISH",
+        "name":"TC 20S M71 BODY SIZE PUTIH BLUISH",
+        "path":"/detail-kain",
+        "warnacss":"#",
+        "type":"kain"
+      }
+    }
+  ]
+}
